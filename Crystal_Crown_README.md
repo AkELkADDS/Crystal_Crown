@@ -1,4 +1,4 @@
-Crystal Crown
+Crystal Crown - Gem Dragonborn CC
 
 [ModIO](https://mod.io/g/baldursgate3/m/crystal-crown#description)
 [Nexus](https://www.nexusmods.com/baldursgate3/mods/10292)
