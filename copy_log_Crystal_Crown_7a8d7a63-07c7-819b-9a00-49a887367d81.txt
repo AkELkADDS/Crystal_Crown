@@ -1,0 +1,930 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+   Mon 05/19/2025  4:21:48.98 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Body\_Female\Tail\DGB_F_Tail_B_EL_Crystal\DGB_F_NKD_Tail_B_EL.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_B_EL_Crystal\DGB_M_NKD_Tail_B_EL.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_B_EL_CrystalCrown\DGB_F_NKD_Head_B_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_CrystalCrown\DGB_F_NKD_Head_C_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_D_EL_CrystalCrown\DGB_F_NKD_Head_D_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_E_EL_CrystalCrown\DGB_F_NKD_Head_E_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_B_EL_Crystal\DGB_F_NKD_Head_B_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Crystal\DGB_F_NKD_Head_C_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_D_EL_Crystal\DGB_F_NKD_Head_D_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_E_EL_Crystal\DGB_F_NKD_Head_E_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_CrystalCrown\DGB_M_NKD_Head_D_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_CrystalCrown\DGB_M_NKD_Head_E_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_F_EL_CrystalCrown\DGB_M_NKD_Head_F_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_G_EL_CrystalCrown\DGB_M_NKD_Head_G_EL_Top_CrystalCrown.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Crystal\DGB_M_NKD_Head_D_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Crystal\DGB_M_NKD_Head_E_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_F_EL_Crystal\DGB_M_NKD_Head_F_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_G_EL_Crystal\DGB_M_NKD_Head_G_EL_Jaw_Spikes_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_G_EL_Crystal\DGB_M_NKD_Head_G_EL_Jaw_Spikes_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemAmethyst_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemBlood_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemEmerald_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemIce_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemObsidian_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemSapphire_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemTopazH_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemTopazY_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_HMVY.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_MSK.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_NM.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\Icons\DGB_CCrwn_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\02ee03fd-2968-7de1-4937-b45edd3fdb32.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\03efb48a-1793-6f4d-e308-f58c81e3833e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\041bb5c8-5b16-1906-2266-2d8461e96ff8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\04ec46cc-51aa-8bb5-0bdd-bb9590ff368c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0552b40a-51ef-39d8-b548-ddedb03b6f04.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0563681a-5300-e812-e45f-25622131af5f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\068fa716-c795-783d-87c0-ef89e178c554.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\079f435f-e239-e206-129a-843b4203ab25.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\07ad555f-b9d9-351b-4705-91734d13b26f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\09645aba-1ca2-34b3-af47-9a3e00871665.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0a6ed44d-5644-501c-ad77-26a7ff296329.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e13e87d-633f-413b-f997-be911ab38358.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e2bd21e-fcf7-ef0a-d20d-908a4af8f3bb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e6725ab-7274-923b-1f47-0755abdf3d0e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\10be02e1-c388-cb5c-08a2-8a44243f6017.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\110314f2-7d9e-e1e0-3e53-332ba6fc73d8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\13298f55-2083-e13f-b20e-22b463ce79cd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\14634cfe-499f-c0cc-0540-c99452ecc930.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\162a2d47-6cda-0096-0bca-d1d8098e8b3d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\17d9dcda-583b-dbf6-9155-023dca48a036.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\18cfe305-14a6-2ed7-e42e-597045b6f525.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1b719073-9b75-5fac-2384-d255d8455db7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1baad63d-5c88-03b3-cd71-3237e2b7cf6e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1be76c34-3b30-9667-93ac-685503cb52b5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1ce9acdc-b12d-bfc4-8f9f-20ed54c69e9d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1e5552b5-6178-4acb-ef17-0fe7c313bc2b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1f1993f4-c584-31a3-e05e-779b752a8603.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2314e5fd-e974-9191-2abe-b5f1704571fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\23c4459f-6e96-12b4-c46e-e4f5c8c6e71b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\25ea6900-99b2-ac2c-5488-d73910bac5a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\26480659-63d5-09f4-f4cf-0ad8588e1f27.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\27030485-5d5a-27d9-de55-4e27dbba9e82.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\280fdd91-37ca-1dc2-832b-b66e8a9254f9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\289da33b-8d3c-3cac-d643-4ade1725d21e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\297d1274-027e-c293-0d63-60f0abc0bc29.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2a927cf7-1d73-8980-b4ef-478467e31d4d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2aefdbf4-7868-e79a-7f91-d1f0fa14b27d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2b733a6f-c7ce-e67f-44f5-50abb5978b53.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2f21b594-82ce-718a-7fb5-35b8a3735874.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\308bd939-cc10-5ca2-e02c-5299351b3160.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3740f6a2-833b-6c61-c698-09dda8f294e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3a0a412f-ef6a-2724-747e-493a87ec0761.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3a427a3e-210a-a7cc-5acd-c1c5cabf71ea.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3b61d91c-27bf-e2f4-5935-6921ada64f56.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3bb47b18-341e-fe57-deb0-d66519876c2a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3cffd549-5497-b5d9-e17c-1d5cdd6f505b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3d76091b-bbf7-b7f1-7507-c805b005c674.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3e143213-6954-4d46-a3e1-e6c5f327709e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3e2d64ad-82a6-4de9-0d81-71ec713047f4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\412b4aaf-094e-4936-df2d-774b655c45b5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4606f447-60e1-32bf-332f-47bec555429a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\464c3714-002f-d947-8565-a9a1185d0e41.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4b8275cf-9ccd-c239-3a6d-5f1d297bddf1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4ba75551-1403-1228-b41f-ec61b669e2b7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4cd8b4b8-f170-7825-b779-244946ffd1be.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4da89a6d-871d-560b-6c13-47cc90557634.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4dd12142-8c2e-d52d-615b-a7cfd1f98039.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4f9f60a2-1a37-d670-f12f-eb7a9e019c30.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\51640b1b-4dae-0702-ddeb-1b3e6ddadb1a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\517df5bd-d337-4a3d-2b34-9123ab0b7d37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\51d894f7-d820-1f50-c07c-18507a8d5efd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\52b03e09-9a95-a7c1-40b7-bd6baa279f86.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5454975a-9b45-8dd5-e66d-c7777cc746b3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\58fbf1ed-3791-68fd-d598-09b569058b95.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5c95dce5-6bd5-f144-63d2-eec4668e4d25.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5dbdadda-f278-2c1e-9a59-efe4759e9928.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5e94e16d-b309-b9f6-3504-f69b609b2365.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5ef422a0-fd44-8655-f191-4328e671447a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5f5772cb-50bd-4b7a-88e6-dd74ee578d09.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\60026b89-8bb6-429b-b546-075c9ae577f4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\650b1534-cccf-2dd6-9f66-dedb24b9dcc3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6a59f39e-263c-b4fa-094f-5f0902a0dd07.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6bc6f5d2-0e49-8d3b-3e1f-3a1b48aa1837.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6dd7ff95-7e08-2787-03bf-0d40f9795585.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6e6315a8-3872-d96e-4155-1c7dda843c93.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6f6afb39-7180-ee3a-0f87-3965f7a16ba2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\70b04a67-061d-cd3e-6248-a12797a8e71a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\70d908a3-53df-3947-fab8-b39843a19f80.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\71def98d-25d3-0b8d-b47e-e89955b029fe.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\734dc099-e6f4-0e39-535c-b538d346f508.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\73f6053c-a2f9-7fb5-13b0-228979062b18.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7474f6ea-d0e6-b7c7-f7bd-8adb90d8bcaf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\74c3717e-213d-3ac2-bcae-e52be376258f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\750719f0-2fc0-9054-d06a-b0144bb6791f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\75340231-6b70-dd05-d1f7-0d1538acb8ef.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\77a4cab6-fd91-c627-41fd-01620e41b4b4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\79700975-3e00-9cf3-f21e-6b39ef3f8703.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7a7954ef-9876-489f-a2b7-87bca57b4f51.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7b7d7b5b-8a04-c57a-d051-b28755cf7a6f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7bbdbe27-7f38-92e6-08b1-b0c3a0030710.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7d2e4b67-0375-43ff-5674-f54db3faadbc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7f2df3b3-c2f6-0d37-22a8-52b17e1f6d04.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8052d81f-9436-dec0-5ee0-5dbae077bc92.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\80e3ce0b-e658-203e-37e5-9cf2110cffa8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\820dee1d-cd0e-f272-3038-98a1023b435b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\823f3087-2688-db8d-8a7e-6140f5b502fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\82a35ca7-745c-5ac0-1b64-7f416d27ae0d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\82b46a34-a722-8290-7eba-266f98dd52ac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\83c60775-bc36-105f-af51-055ebbdea6e1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8488cdf9-5f1c-89d3-a751-2cf142ee42ee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\864078ec-328f-9a1b-fff0-45f5356bdfb1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8879959e-ff2b-9d4e-1af8-2b4e8f586079.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8a1b8503-c6cb-7f78-1d0f-c15cc7708ddf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8a73131c-681f-9949-ed73-9c94c93450d7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8bb0f969-2d8b-f085-f696-9bee3a483f28.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8c40b98a-6eb5-ac0f-384f-593240c9e7fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8cc9f194-e1fd-4331-a334-f918cfb22d99.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8f73b72c-37a7-693b-a4d0-3e6fa17e11ed.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\90ef1de5-6e66-c03c-f3f1-94b93332a051.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\91e4237c-0132-9c73-5da2-fa550bd761f3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\92d1b3d4-e85a-ba6f-b063-161e75984cb0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\95296014-c2dd-4b44-1937-020c406f62bb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\96b20217-d670-de65-4707-eabcc2fd9281.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\98f30ffb-c2db-5ded-38d0-62c8d81341ca.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\997e2a6c-58b1-b4f5-dee7-af3c7fc46a84.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9b30f6ec-cfdb-6326-ea8e-d4fda8d359dc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9bdde215-6f56-780c-3fb9-7361c93bd0ce.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9c556014-91df-50cf-e12b-a26219601c7c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9c8f27df-1a74-bc58-1de3-bf6b3c9fb672.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9cf9cf8d-4a9e-98bb-cd2e-6f307398c470.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9e9be072-80e4-337b-8f68-dfd53c202140.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9f286f7d-4bdb-c99a-6adf-16f6da764371.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a47b92e9-ccea-9bff-91eb-e25846991bb7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a8214d8f-11a3-7d52-b5cc-337d4f8dd4b4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a88fa8f2-2c2e-674e-13bc-526d2693aa9a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\aa7c9ea2-bbc7-2be2-6242-d41eb00d2719.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b049121e-7fcc-6d18-fa28-c8aa317963e3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b2453bec-c275-e538-add1-a7de22bd5a3d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b3ef8152-537c-223d-1c3e-dd2ffca3d151.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b6586bf5-9bdc-32ec-e327-b3b6954c1ef1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b6f100b1-389f-b3e8-8f76-49791798f209.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b756361b-a425-ffc1-2fa4-ebb44138ec21.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b96305ba-8fad-972e-4ead-df275daa048c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b9775a97-937c-2683-7cc6-75b0f955d7d9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bcf61aef-d6fa-8a49-31d2-ef8e991034bc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bd02b2b8-5d10-d72b-f4a6-505f4b1d5eb3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bd7832e2-cf2b-3448-a1ec-3afa60735b96.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\be4aa0da-9d62-05b0-425f-cb98d63b50eb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bf251b94-d05d-5c57-b6d1-0d2e7d5f12d6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bf3171b4-b863-0c77-273b-c1fc5c8b5491.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c0454dd2-8c23-b844-fd6f-7dd5c90d0173.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c091c31c-df9e-2c73-fe82-b95d797cdeef.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c3329eab-8ddf-19b7-32b2-1a26c8f1063b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c420c0f3-00ac-fc8d-b96b-d3d9f76a8a45.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c49c154f-a6d5-4da8-b010-4e68c90de4d2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c67ddb12-464b-96eb-5b16-3dee463ca903.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c940d937-1faa-9709-9e51-be1c2f3a8f71.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c997aee0-5717-d27f-aec4-c2c61645c36f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c9c55ab8-4c53-21a9-82c7-dbaec72b3622.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c9eddbce-46b9-b53c-0588-a443779a9a8b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\cbf471e2-b685-c84a-430a-f1c3b819ac33.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ce7ec650-811a-0b88-5f20-944a253219a6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d1ba5e74-7702-c898-681c-36894b2ce0fc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d351c7db-c8fe-d7f6-6a0a-8ac9d2a90d8b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d469c5d6-fb88-c2ab-de9d-72d915fb8588.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d8381116-42e8-49aa-0ac1-33d47e629c94.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\da2b4a2c-4470-a05a-552f-5253d5d0e986.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\de6e9bcd-58d1-b0c8-dab3-03a667cc3c0c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\de98289e-49be-79c9-ed80-c1ba4af7234c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e156f583-7b03-a79c-4f0e-85b4d5f938eb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e4e57013-4671-9803-fc8f-fbf4359656d1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e62e6991-5b71-ed05-0019-981f49d42ed5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e81553d6-2bfe-cc02-431d-fc59d7624885.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e9f116ed-4f2e-435e-a7c9-e2bddd8aca0e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\eba35b5f-6677-20f2-26be-5477774f65af.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ebaf509d-9735-29d8-9570-3969e25a7ba0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ece8c74e-5b58-d6f7-3a3f-86106e8711f0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ed7170ab-6f85-8e90-2178-4fc6145b34cf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ed75000e-724c-b746-20d8-caae8b40b224.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ef9ae0c8-ab2c-ce00-fe98-be610b89da3c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f10922f6-1836-d75e-8b05-7947c11770ad.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f16a242e-dd51-de03-9390-79004fd7cd95.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f1befddf-92c0-ac5c-81c7-7a51ea1bffb3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f8a7b7da-d5b7-5ef9-f7be-4865440c4085.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f919c3cf-19a5-551a-398d-1964581ba55f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f95109b4-1d6b-77aa-525e-d3abf698b798.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fb0818db-4797-554c-455e-fbe14987b659.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fced54e6-3727-4b85-ac95-4ebee70acec0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fd332d97-0f7e-7a04-0bf4-a98b2354a9fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fe0e1ddd-cd57-9fc2-df3e-9c31b148ffe5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fe63db82-b32e-bf45-e0d8-e4f493d5dced.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ff1544ea-dfd6-71ce-b60a-b2c62d49eb09.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FB_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_BM.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_BM.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_NM.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_NM.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_PM.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_PM.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\GUI\DGB_CCrwn_Atlas.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\Albedo_Normal_Physical\00441aecc2ac84db5cc46e6a4f38c4b7.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 271 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FB_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682.gts 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682_00441aecc2ac84db5cc46e6a4f38c4b7.gtp 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682_mips.gtp 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\Albedo_Normal_Physical\00441aecc2ac84db5cc46e6a4f38c4b7.gtex 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 30 
+ 
+[LOG] Total files found across all folders: 309 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 to Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using destination: Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:21:52 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+     Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\meta.lsx100%  
+	    New File  		   6.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\thumbnail.png 16%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    6.05 m    6.05 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3174209000 Bytes/sec.
+   Speed :           181629.695 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:21:52 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 to "Editor\Mods"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using destination: Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:21:54 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+     Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  204068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		    1226	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   200.4 k   200.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 4:21:54 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 to Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using destination: Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:21:55 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+     Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\meta.lsx100%  
+	    New File  		   6.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\mod_publish_logo.png 16%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\GUI\metadata.lsf100%  
+	    New File  		   14319	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    6.07 m    6.07 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3183639500 Bytes/sec.
+   Speed :           182169.313 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:21:55 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 to Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using destination: Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:21:57 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+     Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    1126	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
+	    New File  		  140209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   11990	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\GUI\DGB_CCrwn_Atlas.lsx100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\02ee03fd-2968-7de1-4937-b45edd3fdb32.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\03efb48a-1793-6f4d-e308-f58c81e3833e.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\041bb5c8-5b16-1906-2266-2d8461e96ff8.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\04ec46cc-51aa-8bb5-0bdd-bb9590ff368c.lsf100%  
+	    New File  		    2913	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0552b40a-51ef-39d8-b548-ddedb03b6f04.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0563681a-5300-e812-e45f-25622131af5f.lsf100%  
+	    New File  		    2855	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\068fa716-c795-783d-87c0-ef89e178c554.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\079f435f-e239-e206-129a-843b4203ab25.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\07ad555f-b9d9-351b-4705-91734d13b26f.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\09645aba-1ca2-34b3-af47-9a3e00871665.lsf100%  
+	    New File  		    2854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0a6ed44d-5644-501c-ad77-26a7ff296329.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e13e87d-633f-413b-f997-be911ab38358.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e2bd21e-fcf7-ef0a-d20d-908a4af8f3bb.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\0e6725ab-7274-923b-1f47-0755abdf3d0e.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\10be02e1-c388-cb5c-08a2-8a44243f6017.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\110314f2-7d9e-e1e0-3e53-332ba6fc73d8.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\13298f55-2083-e13f-b20e-22b463ce79cd.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\14634cfe-499f-c0cc-0540-c99452ecc930.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\162a2d47-6cda-0096-0bca-d1d8098e8b3d.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\17d9dcda-583b-dbf6-9155-023dca48a036.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\18cfe305-14a6-2ed7-e42e-597045b6f525.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1b719073-9b75-5fac-2384-d255d8455db7.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1baad63d-5c88-03b3-cd71-3237e2b7cf6e.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1be76c34-3b30-9667-93ac-685503cb52b5.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1ce9acdc-b12d-bfc4-8f9f-20ed54c69e9d.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1e5552b5-6178-4acb-ef17-0fe7c313bc2b.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\1f1993f4-c584-31a3-e05e-779b752a8603.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2314e5fd-e974-9191-2abe-b5f1704571fa.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\23c4459f-6e96-12b4-c46e-e4f5c8c6e71b.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\25ea6900-99b2-ac2c-5488-d73910bac5a8.lsf100%  
+	    New File  		    2913	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\26480659-63d5-09f4-f4cf-0ad8588e1f27.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\27030485-5d5a-27d9-de55-4e27dbba9e82.lsf100%  
+	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\280fdd91-37ca-1dc2-832b-b66e8a9254f9.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\289da33b-8d3c-3cac-d643-4ade1725d21e.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\297d1274-027e-c293-0d63-60f0abc0bc29.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2a927cf7-1d73-8980-b4ef-478467e31d4d.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2aefdbf4-7868-e79a-7f91-d1f0fa14b27d.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2b733a6f-c7ce-e67f-44f5-50abb5978b53.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\2f21b594-82ce-718a-7fb5-35b8a3735874.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\308bd939-cc10-5ca2-e02c-5299351b3160.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3740f6a2-833b-6c61-c698-09dda8f294e4.lsf100%  
+	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3a0a412f-ef6a-2724-747e-493a87ec0761.lsf100%  
+	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3a427a3e-210a-a7cc-5acd-c1c5cabf71ea.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3b61d91c-27bf-e2f4-5935-6921ada64f56.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3bb47b18-341e-fe57-deb0-d66519876c2a.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3cffd549-5497-b5d9-e17c-1d5cdd6f505b.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3d76091b-bbf7-b7f1-7507-c805b005c674.lsf100%  
+	    New File  		    1573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3e143213-6954-4d46-a3e1-e6c5f327709e.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\3e2d64ad-82a6-4de9-0d81-71ec713047f4.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\412b4aaf-094e-4936-df2d-774b655c45b5.lsf100%  
+	    New File  		    1657	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4606f447-60e1-32bf-332f-47bec555429a.lsf100%  
+	    New File  		    2856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\464c3714-002f-d947-8565-a9a1185d0e41.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4b8275cf-9ccd-c239-3a6d-5f1d297bddf1.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4ba75551-1403-1228-b41f-ec61b669e2b7.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4cd8b4b8-f170-7825-b779-244946ffd1be.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4da89a6d-871d-560b-6c13-47cc90557634.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4dd12142-8c2e-d52d-615b-a7cfd1f98039.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\4f9f60a2-1a37-d670-f12f-eb7a9e019c30.lsf100%  
+	    New File  		    2673	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\51640b1b-4dae-0702-ddeb-1b3e6ddadb1a.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\517df5bd-d337-4a3d-2b34-9123ab0b7d37.lsf100%  
+	    New File  		    2851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\51d894f7-d820-1f50-c07c-18507a8d5efd.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\52b03e09-9a95-a7c1-40b7-bd6baa279f86.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5454975a-9b45-8dd5-e66d-c7777cc746b3.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\58fbf1ed-3791-68fd-d598-09b569058b95.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5c95dce5-6bd5-f144-63d2-eec4668e4d25.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5dbdadda-f278-2c1e-9a59-efe4759e9928.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5e94e16d-b309-b9f6-3504-f69b609b2365.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5ef422a0-fd44-8655-f191-4328e671447a.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\5f5772cb-50bd-4b7a-88e6-dd74ee578d09.lsf100%  
+	    New File  		    2854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\60026b89-8bb6-429b-b546-075c9ae577f4.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\650b1534-cccf-2dd6-9f66-dedb24b9dcc3.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6a59f39e-263c-b4fa-094f-5f0902a0dd07.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6bc6f5d2-0e49-8d3b-3e1f-3a1b48aa1837.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6dd7ff95-7e08-2787-03bf-0d40f9795585.lsf100%  
+	    New File  		    1663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6e6315a8-3872-d96e-4155-1c7dda843c93.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\6f6afb39-7180-ee3a-0f87-3965f7a16ba2.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\70b04a67-061d-cd3e-6248-a12797a8e71a.lsf100%  
+	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\70d908a3-53df-3947-fab8-b39843a19f80.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\71def98d-25d3-0b8d-b47e-e89955b029fe.lsf100%  
+	    New File  		   13547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\734dc099-e6f4-0e39-535c-b538d346f508.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\73f6053c-a2f9-7fb5-13b0-228979062b18.lsf100%  
+	    New File  		    1644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7474f6ea-d0e6-b7c7-f7bd-8adb90d8bcaf.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\74c3717e-213d-3ac2-bcae-e52be376258f.lsf100%  
+	    New File  		    1666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\750719f0-2fc0-9054-d06a-b0144bb6791f.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\75340231-6b70-dd05-d1f7-0d1538acb8ef.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\77a4cab6-fd91-c627-41fd-01620e41b4b4.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\79700975-3e00-9cf3-f21e-6b39ef3f8703.lsf100%  
+	    New File  		    2670	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7a7954ef-9876-489f-a2b7-87bca57b4f51.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7b7d7b5b-8a04-c57a-d051-b28755cf7a6f.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7bbdbe27-7f38-92e6-08b1-b0c3a0030710.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7d2e4b67-0375-43ff-5674-f54db3faadbc.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\7f2df3b3-c2f6-0d37-22a8-52b17e1f6d04.lsf100%  
+	    New File  		    2914	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8052d81f-9436-dec0-5ee0-5dbae077bc92.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\80e3ce0b-e658-203e-37e5-9cf2110cffa8.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\820dee1d-cd0e-f272-3038-98a1023b435b.lsf100%  
+	    New File  		    2856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\823f3087-2688-db8d-8a7e-6140f5b502fa.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\82a35ca7-745c-5ac0-1b64-7f416d27ae0d.lsf100%  
+	    New File  		    1663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\82b46a34-a722-8290-7eba-266f98dd52ac.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\83c60775-bc36-105f-af51-055ebbdea6e1.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8488cdf9-5f1c-89d3-a751-2cf142ee42ee.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\864078ec-328f-9a1b-fff0-45f5356bdfb1.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8879959e-ff2b-9d4e-1af8-2b4e8f586079.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8a1b8503-c6cb-7f78-1d0f-c15cc7708ddf.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8a73131c-681f-9949-ed73-9c94c93450d7.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8bb0f969-2d8b-f085-f696-9bee3a483f28.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8c40b98a-6eb5-ac0f-384f-593240c9e7fa.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8cc9f194-e1fd-4331-a334-f918cfb22d99.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\8f73b72c-37a7-693b-a4d0-3e6fa17e11ed.lsf100%  
+	    New File  		   14000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\90ef1de5-6e66-c03c-f3f1-94b93332a051.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\91e4237c-0132-9c73-5da2-fa550bd761f3.lsf100%  
+	    New File  		    2856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\92d1b3d4-e85a-ba6f-b063-161e75984cb0.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\95296014-c2dd-4b44-1937-020c406f62bb.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\96b20217-d670-de65-4707-eabcc2fd9281.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\98f30ffb-c2db-5ded-38d0-62c8d81341ca.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\997e2a6c-58b1-b4f5-dee7-af3c7fc46a84.lsf100%  
+	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9b30f6ec-cfdb-6326-ea8e-d4fda8d359dc.lsf100%  
+	    New File  		    2915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9bdde215-6f56-780c-3fb9-7361c93bd0ce.lsf100%  
+	    New File  		    2912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9c556014-91df-50cf-e12b-a26219601c7c.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9c8f27df-1a74-bc58-1de3-bf6b3c9fb672.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9cf9cf8d-4a9e-98bb-cd2e-6f307398c470.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9e9be072-80e4-337b-8f68-dfd53c202140.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\9f286f7d-4bdb-c99a-6adf-16f6da764371.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a47b92e9-ccea-9bff-91eb-e25846991bb7.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a8214d8f-11a3-7d52-b5cc-337d4f8dd4b4.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\a88fa8f2-2c2e-674e-13bc-526d2693aa9a.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\aa7c9ea2-bbc7-2be2-6242-d41eb00d2719.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b049121e-7fcc-6d18-fa28-c8aa317963e3.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b2453bec-c275-e538-add1-a7de22bd5a3d.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b3ef8152-537c-223d-1c3e-dd2ffca3d151.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b6586bf5-9bdc-32ec-e327-b3b6954c1ef1.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b6f100b1-389f-b3e8-8f76-49791798f209.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b756361b-a425-ffc1-2fa4-ebb44138ec21.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b96305ba-8fad-972e-4ead-df275daa048c.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\b9775a97-937c-2683-7cc6-75b0f955d7d9.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bcf61aef-d6fa-8a49-31d2-ef8e991034bc.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bd02b2b8-5d10-d72b-f4a6-505f4b1d5eb3.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bd7832e2-cf2b-3448-a1ec-3afa60735b96.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\be4aa0da-9d62-05b0-425f-cb98d63b50eb.lsf100%  
+	    New File  		    1571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bf251b94-d05d-5c57-b6d1-0d2e7d5f12d6.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\bf3171b4-b863-0c77-273b-c1fc5c8b5491.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c0454dd2-8c23-b844-fd6f-7dd5c90d0173.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c091c31c-df9e-2c73-fe82-b95d797cdeef.lsf100%  
+	    New File  		    1645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c3329eab-8ddf-19b7-32b2-1a26c8f1063b.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c420c0f3-00ac-fc8d-b96b-d3d9f76a8a45.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c49c154f-a6d5-4da8-b010-4e68c90de4d2.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c67ddb12-464b-96eb-5b16-3dee463ca903.lsf100%  
+	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c940d937-1faa-9709-9e51-be1c2f3a8f71.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c997aee0-5717-d27f-aec4-c2c61645c36f.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c9c55ab8-4c53-21a9-82c7-dbaec72b3622.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\c9eddbce-46b9-b53c-0588-a443779a9a8b.lsf100%  
+	    New File  		    2910	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\cbf471e2-b685-c84a-430a-f1c3b819ac33.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ce7ec650-811a-0b88-5f20-944a253219a6.lsf100%  
+	    New File  		    2673	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d1ba5e74-7702-c898-681c-36894b2ce0fc.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d351c7db-c8fe-d7f6-6a0a-8ac9d2a90d8b.lsf100%  
+	    New File  		    2915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d469c5d6-fb88-c2ab-de9d-72d915fb8588.lsf100%  
+	    New File  		    2915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\d8381116-42e8-49aa-0ac1-33d47e629c94.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\da2b4a2c-4470-a05a-552f-5253d5d0e986.lsf100%  
+	    New File  		    1641	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\de6e9bcd-58d1-b0c8-dab3-03a667cc3c0c.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\de98289e-49be-79c9-ed80-c1ba4af7234c.lsf100%  
+	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e156f583-7b03-a79c-4f0e-85b4d5f938eb.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e4e57013-4671-9803-fc8f-fbf4359656d1.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e62e6991-5b71-ed05-0019-981f49d42ed5.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e81553d6-2bfe-cc02-431d-fc59d7624885.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\e9f116ed-4f2e-435e-a7c9-e2bddd8aca0e.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\eba35b5f-6677-20f2-26be-5477774f65af.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ebaf509d-9735-29d8-9570-3969e25a7ba0.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ece8c74e-5b58-d6f7-3a3f-86106e8711f0.lsf100%  
+	    New File  		    2853	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ed7170ab-6f85-8e90-2178-4fc6145b34cf.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ed75000e-724c-b746-20d8-caae8b40b224.lsf100%  
+	    New File  		    2674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ef9ae0c8-ab2c-ce00-fe98-be610b89da3c.lsf100%  
+	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f10922f6-1836-d75e-8b05-7947c11770ad.lsf100%  
+	    New File  		    2776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f16a242e-dd51-de03-9390-79004fd7cd95.lsf100%  
+	    New File  		    2780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f1befddf-92c0-ac5c-81c7-7a51ea1bffb3.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f8a7b7da-d5b7-5ef9-f7be-4865440c4085.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f919c3cf-19a5-551a-398d-1964581ba55f.lsf100%  
+	    New File  		    2672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\f95109b4-1d6b-77aa-525e-d3abf698b798.lsf100%  
+	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fb0818db-4797-554c-455e-fbe14987b659.lsf100%  
+	    New File  		    2848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fced54e6-3727-4b85-ac95-4ebee70acec0.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fd332d97-0f7e-7a04-0bf4-a98b2354a9fa.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fe0e1ddd-cd57-9fc2-df3e-9c31b148ffe5.lsf100%  
+	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\fe63db82-b32e-bf45-e0d8-e4f493d5dced.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Content\[PAK]_Crystal_Crown\ff1544ea-dfd6-71ce-b60a-b2c62d49eb09.lsf100%  
+	    New File  		     468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\Albedo_Normal_Physical\00441aecc2ac84db5cc46e6a4f38c4b7.xml100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\Icons\DGB_CCrwn_Atlas.dds100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_BM.tif100%  
+	    New File  		     485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_BM.xml100%  
+	    New File  		   4.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_NM.tif100%  
+	    New File  		     485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_NM.xml100%  
+	    New File  		   3.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_PM.tif100%  
+	    New File  		     485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_PM.xml100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemAmethyst_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemBlood_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemEmerald_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemIce_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemObsidian_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemSapphire_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemTopazH_GM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\AccGem\DGB_EL_A_Acc_CCrwn_GemTopazY_GM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_HMVY.DDS 84%  100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\CrestTop\DGB_EL_A_Top_CCrwn_MF_NM.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_CTLO.DDS100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_DMSK.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_HMVY.dds100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_MSK.dds100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_CCrwn\Jaw\DGB_EL_A_Jaw_CCrwn_ME_NM.dds100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\Tail\DGB_EL_MZ_Tail_CCrwn_B_NM.DDS100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.xml100%  
+	    New File  		  181872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.xml100%  
+	    New File  		  633924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FB_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.xml100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.xml100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.xml100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.xml100%  
+	    New File  		  242764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.xml100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.xml100%  
+	    New File  		  248196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.xml100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.xml100%  
+	    New File  		  637468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.xml100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.xml100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.GR2100%  
+	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.xml100%  
+	    New File  		  247948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.xml100%  
+	    New File  		  248252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.xml100%  
+	    New File  		  248364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.xml100%  
+	    New File  		  248140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.xml100%  
+	    New File  		  181872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Body\_Female\Tail\DGB_F_Tail_B_EL_Crystal\DGB_F_NKD_Tail_B_EL.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_B_EL_Crystal\DGB_M_NKD_Tail_B_EL.GR2100%  
+	    New File  		  633924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_B_EL_CrystalCrown\DGB_F_NKD_Head_B_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_CrystalCrown\DGB_F_NKD_Head_C_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_D_EL_CrystalCrown\DGB_F_NKD_Head_D_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_B_EL_Crystal\DGB_F_NKD_Head_B_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_E_EL_CrystalCrown\DGB_F_NKD_Head_E_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  242764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Crystal\DGB_F_NKD_Head_C_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_D_EL_Crystal\DGB_F_NKD_Head_D_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  248196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_E_EL_Crystal\DGB_F_NKD_Head_E_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_D_EL_CrystalCrown\DGB_M_NKD_Head_D_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  637468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_CrystalCrown\DGB_M_NKD_Head_E_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_F_EL_CrystalCrown\DGB_M_NKD_Head_F_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_G_EL_CrystalCrown\DGB_M_NKD_Head_G_EL_Top_CrystalCrown.GR2100%  
+	    New File  		  247948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_D_EL_Crystal\DGB_M_NKD_Head_D_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  248252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Crystal\DGB_M_NKD_Head_E_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  248364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_F_EL_Crystal\DGB_M_NKD_Head_F_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		  248140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_G_EL_Crystal\DGB_M_NKD_Head_G_EL_Jaw_Spikes_ME.GR2100%  
+	    New File  		     249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\AkELkA Mods_CrystalCrown\CrystalCrown\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_G_EL_Crystal\DGB_M_NKD_Head_G_EL_Jaw_Spikes_ME.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        71        71         1         0         0         0
+   Files :       271       271         0         0         0         0
+   Bytes :   94.69 m   94.69 m         0         0         0         0
+   Times :   0:00:03   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           173290720 Bytes/sec.
+   Speed :            9915.774 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:21:58 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 271 
+[DEBUG] Successfully copied files: 271 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 
+      Total files: 271 
+      Copied successfully: 271 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 to "Generated\Public"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[DEBUG] Using destination: Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:21:59 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+     Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682.gts100%  
+	    New File  		  14.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682_00441aecc2ac84db5cc46e6a4f38c4b7.gtp100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\8c90dfce-3fd8-44b0-a3fa-5e7e4bebb682_mips.gtp100%  
+	    New File  		  16.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\VirtualTextures\Albedo_Normal_Physical\00441aecc2ac84db5cc46e6a4f38c4b7.gtex 93%  100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemAmethyst.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemBlood.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemEmerald.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemIce.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemObsidian.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemSapphire.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemTopazH.GR2100%  
+	    New File  		  181816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_CCrwn\DGB_EL_MZ_Tail_CCrwn_B_GemTopazY.GR2100%  
+	    New File  		  181872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_CCrwn\Tail\DGB_EL_FZ_Tail_CCrwn_B.GR2100%  
+	    New File  		  633924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FB_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FC_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FD_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FE_Top_CCrwn_MF.GR2100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FB_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  242764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FC_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  248084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FD_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  248196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FE_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  247948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MD_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  248252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_ME_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  248364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MF_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  248140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MG_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MD_Top_CCrwn_MF.GR2100%  
+	    New File  		  637468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_ME_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MF_Top_CCrwn_MF.GR2100%  
+	    New File  		  639580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\CrestTop\DGB_EL_MG_Top_CCrwn_MF.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        18        18         1         0         0         0
+   Files :        30        30         0         0         0         0
+   Bytes :   40.49 m   40.49 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           181458769 Bytes/sec.
+   Speed :           10383.154 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:22:00 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 30 
+[DEBUG] Successfully copied files: 30 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81: 
+      Total files: 30 
+      Copied successfully: 30 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 271 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_7a8d7a63-07c7-819b-9a00-49a887367d81 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 30 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 309 
+[SUMMARY] Total files successfully copied: 618 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

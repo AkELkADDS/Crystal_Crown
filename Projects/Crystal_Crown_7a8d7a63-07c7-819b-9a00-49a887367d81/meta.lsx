@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="7a8d7a63-07c7-819b-9a00-49a887367d81"/>
+            <attribute id="Name" type="LSString" value="Crystal_Crown"/>
+            <attribute id="UUID" type="LSString" value="926dfd24-e85a-dee2-daba-f9936396016a"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

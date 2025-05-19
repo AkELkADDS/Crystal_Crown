@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_BM" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_NM" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\CrystalCrown\VT\VirtualTextures\DGB_EL_A_Acc_CCrwn_Gem_aG_PM" />
+  </Layers>
+</StackedTexture>
