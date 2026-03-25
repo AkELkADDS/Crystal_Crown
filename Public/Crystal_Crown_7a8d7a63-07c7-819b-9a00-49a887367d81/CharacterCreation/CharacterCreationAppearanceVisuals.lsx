@@ -3948,6 +3948,94 @@
                     <attribute id="UUID" type="guid" value="82ca4f82-2d20-4ce0-8a3f-2b71d449ab9e"/>
                     <attribute id="VisualResource" type="guid" value="1933657f-b5b7-4e07-9ccf-983cbea2a02f"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h59549379g1025g7533gd39fg8adb6fa58ba3" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_BGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="68d6c50c-fbb4-4dcc-afaf-0a2edac4739f"/>
+                    <attribute id="VisualResource" type="guid" value="3a691bc6-7915-47e9-bfe9-bb40d32ac706"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a291e82g3e07g1ec2gaa81g658fdcee9fea" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Purple"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="a870e3a2-03fc-4fad-8547-d1629b2ed0a9"/>
+                    <attribute id="VisualResource" type="guid" value="1d3d0f1b-7baa-4fe4-b283-2e8f6e47248d"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5c800bc3g26d4g86bag9ca9g11d8b91b1332" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Blue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="40ee52ae-02fb-49da-991c-bb1b3ab962a1"/>
+                    <attribute id="VisualResource" type="guid" value="8fddfd0f-a05e-427f-b544-72ebd52c5f33"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h19c95b43g34e5g63e0g97c8g0baebaa3a85f" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Green"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="6bb3a6c0-c2d8-4391-aa1b-389de512f381"/>
+                    <attribute id="VisualResource" type="guid" value="72541521-b67f-47fe-bfa9-1810a14be171"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfcef3990gd945g24b1g2522gce02f340367d" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Fire"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="4c7661bf-a29e-4f18-b83b-9475fb1d652e"/>
+                    <attribute id="VisualResource" type="guid" value="3d6c1e80-944b-4df1-823f-d3ace90b18e4"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h75b19913g0dffg55e7g638cgac456f20f35b" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Red"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="58782df3-66dc-4f2b-8a29-b442a8728cee"/>
+                    <attribute id="VisualResource" type="guid" value="d9dc8fd0-a495-4aa7-bce3-07b34c5c3bc9"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2f807f26g86c8gd09fgf7d0g25cb548f62b9" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_Pink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="a879f6ec-5bc4-44d5-9969-61312ca93ca8"/>
+                    <attribute id="VisualResource" type="guid" value="a6518bad-079e-461f-90dc-74d964034609"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9f256e93gc87eg2f0bg0cb8g28bf0d259890" version="2"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_Chin_Head_O_Karlach_White"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="UUID" type="guid" value="27c83cb0-4546-40ec-abb3-460a4b53012e"/>
+                    <attribute id="VisualResource" type="guid" value="f77da9f4-454f-43c2-894c-35ab7391c015"/>
+                </node>
             </children>
         </node>
     </region>
